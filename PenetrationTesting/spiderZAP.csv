@@ -1,0 +1,10 @@
+Elaborato,Metodo,URI,Flags
+true,GET,https://192.168.64.1:4433,Inizializza
+true,GET,https://192.168.64.1:4433/robots.txt,Inizializza
+true,GET,https://192.168.64.1:4433/sitemap.xml,Inizializza
+true,GET,https://192.168.64.1:4433/oauth2/authorization/keycloak,
+false,GET,https://localhost:8443/auth/realms/SSDProject/protocol/openid-connect/auth?client_id=editor&nonce=0vAxx_W9XwYWfLgQtg3wwt_Ybtt6lK-7sz5Jf_iwICw&redirect_uri=https://192.168.64.1:4433/login/oauth2/code/keycloak&response_type=code&scope=openid&state=SpCFnnHPHOejczpPDcuUmF3BWdyntmC0r9HZWPZhjIo%3D,Fuori scopo
+true,GET,https://192.168.64.1:4433/home,
+false,GET,"https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700",Fuori scopo
+false,GET,"https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic",Fuori scopo
+false,GET,https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css,Fuori scopo
